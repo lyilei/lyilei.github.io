@@ -4,7 +4,7 @@ description: "I'm very excited to let you know that I'm joining Dropbox. After t
 layout: post
 tags: facebook, dropbox
 category: career
-comments: true
+disqus_comments: true
 ---
 
 <img src="http://farm9.staticflickr.com/8225/8580803186_ccf9d4337b_o.png" width="50%" align="right">I'm very excited to let you know that I'm joining [Dropbox](https://www.dropbox.com/).
